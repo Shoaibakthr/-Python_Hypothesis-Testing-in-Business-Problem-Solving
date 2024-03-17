@@ -1,4 +1,4 @@
-# -Python_Hypothesis-Testing-in-Business-Problem-Solving
+# Python_Hypothesis-Testing-in-Business-Problem-Solving
 
 Overview:
 Hypothesis testing is a powerful statistical tool used to address various business challenges by analyzing data and drawing conclusions. This repository showcases how hypothesis testing was applied to solve multiple business problems.
